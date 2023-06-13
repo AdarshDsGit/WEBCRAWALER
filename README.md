@@ -1,13 +1,6 @@
-# opinapp
 
-Iam choosing the 3rd assingment web crawler becuase it alings well with the rules and objectives stated in all 4 assingements
-code quality
-time taken to submit 
-codes response time 
-
-
-● Create a web crawler using python that is able to scrape first 10,000 results for the following
-google search input - site:youtube.com openinapp.co
+● A web crawler using python that is able to scrape first 10,000 results for the following
+google search input -
 ● Collect all the given YouTube links of the above search link.
 ● Give the results in the JSON/CSV format.
 
